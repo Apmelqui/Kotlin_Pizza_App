@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AdrianoMelquiades_COMP304-002_Lab01-Ex02</string>
+    <string name="pizza_toppings">PIZZA TOPPINGS</string>
+    <string name="pizza_delivery_app">PIZZA DELIVERY APP</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="onion">Onion</string>
+    <string name="delivery">DELIVERY:</string>
+    <string name="home">Home</string>
+    <string name="tomato">Tomato</string>
+    <string name="olive">Olive</string>
+    <string name="pepper">Pepper</string>
+    <string name="place_order">Place Order</string>
+    <string name="take_out">Take Out</string>
+    <string name="output">Output</string>
+    <string name="pizza_sizes">PIZZA SIZES</string>
+
+    <string-array name="pizzaSizes">
+        <item>Small - $10.00</item>
+        <item>Medium - $12.00</item>
+        <item>Large - $14.00</item>
+    </string-array>
+
+
+</resources>
